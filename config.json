@@ -1,0 +1,10 @@
+{
+    "sqs_endpoint_url": "http://localhost:4566",
+    "sqs_queue_url": "http://localhost:4566/000000000000/my-queue",
+    "db_host": "localhost",
+    "db_port": 5432,
+    "db_name": "postgres",
+    "db_user": "postgres",
+    "db_password": "postgres"
+  }
+  

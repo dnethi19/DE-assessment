@@ -1,0 +1,21 @@
+{
+    "Records": [
+      {
+        "messageId": "1",
+        "body": "{\"user_id\": 1, \"device_type\": \"oneplus7\", \"device_id\": \"1234567\", \"ip\": \"192.168.0.1\", \"event\": \"login\", \"locale\": \"encoded\", \"app_version\": \"1\"}"
+      },
+      {
+        "messageId": "2",
+        "body": "{\"user_id\": 2, \"device_type\": \"iphone14\", \"device_id\": \"2345678\", \"ip\": \"192.168.0.2\", \"event\": \"login\", \"locale\": \"encoded\", \"app_version\": \"1\"}"
+      },
+      {
+        "messageId": "3",
+        "body": "{\"user_id\": 3, \"device_type\": \"oneplus7\", \"device_id\": \"1234567\", \"ip\": \"192.168.0.3\", \"event\": \"login\", \"locale\": \"encoded\", \"app_version\": \"1\"}"
+      },
+      {
+        "messageId": "4",
+        "body": "{\"user_id\": 4, \"device_type\": \"htc\", \"device_id\": \"3456789\", \"ip\": \"192.168.0.4\", \"event\": \"login\", \"locale\": \"encoded\", \"app_version\": \"1\"}"
+      }
+    ]
+  }
+  
